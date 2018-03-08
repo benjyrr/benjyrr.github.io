@@ -8,15 +8,17 @@ nav{
 	padding-bottom: 20px;
 }
 
-#menu{
-	padding-top:20px;
+#menu input[type=button]{
+	padding: 25px;
+	width: 200px;
 }
 
 #about{
 	font-size:70px;
-
 }
 
 img{
-	width: 100%;
+	width: 80%;
+	height: 80%;
+	padding-bottom: 25px;
 }
